@@ -1,6 +1,4 @@
-import java.util.*;
-
-public class Array {
+public class Array1 {
     public static void main(String[] args){
 
         int[] marks=new int[3];

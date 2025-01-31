@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Array5 {
+public class array5 {
     public static void main(String[] args){
 
         System.out.print("Enter Size of array:- ");
